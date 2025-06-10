@@ -40,6 +40,9 @@ A highly skilled Full-Stack Developer with over 8 years of experience building r
   - **Infrastructure:** Integration with serverless architecture
   - **Machine Learning:** Training models for image segmentation, detection, and classification
 
+
+**Tech Stack:** Laravel, FilamentPHP, Livewire, Laravel Sanctum, Blade, Nova, Dusk, Telescope, Horizon, Vue.js, Vuex, Pinia, Vue Router, Inertia.js, React, Alpine.js, TailwindCSS, Bootstrap, Material UI, NaiveUI, Vuetify, MySQL, PostgreSQL, SQLite, MariaDB, Redis, Docker, GitHub Actions, AWS S3, Serverless, Runpod, Nginx, Supervisor, Pusher/Echo/Reverb, Telegram API, Stripe, PayPal, Braintree, TRON API, Pest, PHPStan, Pint, Sentry, Composer, Vite, Figma, and more...
+
 ---
 
 ### Professional Experience
